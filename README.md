@@ -1,4 +1,6 @@
-### Hi there 👋
+###I am a Developer
+
+>I am currently focused on .Net and Interactive web 
 
 <!--
 **Ariane250/Ariane250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
